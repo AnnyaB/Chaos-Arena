@@ -74,7 +74,7 @@ brew install sfml
 Clone the repository to your local machine using Git:
 
 
-git clone https://github.com/yourusername/chaos-arena.git
+git clone https://github.com/AnnyaB/chaos-arena.git
 
 ## 3. Compile the Game
 Navigate to the project directory and compile the game using your preferred C++ compiler.
