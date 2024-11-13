@@ -3,7 +3,7 @@
 #include <SFML/Graphics.hpp> // For rendering the game window
 #include <algorithm>         // For handling collisions and interactions
 
-class Arena {
+class Arena { 
 public:
     // Arena constructor, sets up the main game window
 
