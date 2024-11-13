@@ -59,10 +59,10 @@ SFML Library: The game uses the SFML library for window management, graphics, an
 ## 1. Install SFML
 Windows:
 Download the SFML library from SFML Downloads.
+
 Follow the installation instructions for your compiler.
 Linux:
 Use the package manager to install SFML. For Ubuntu/Debian:
-
 
 sudo apt-get install libsfml-dev
 macOS:
