@@ -110,7 +110,9 @@ Perform other actions based on their AI or player input (if controlling the enti
 ## Controls
 Mouse/Keyboard: You may use the mouse or keyboard to interact with the game window, such as closing it or adjusting settings. In more advanced versions, keyboard controls could be added to let the player directly control certain entities.
 
-Thank you for playing Chaos Arena! I hope you enjoy the unique priority-based gameplay and challenge yourself with strategic decisions in the arena! If you have any questions or want to contribute, feel free to open an issue or pull request on the project’s GitHub repository.
+
+
+- Thank you for playing Chaos Arena! I hope you enjoy the unique priority-based gameplay and challenge yourself with strategic decisions in the arena! If you have any questions or want to contribute, feel free to open an issue or pull request on the project’s GitHub repository.
 
 
 
